@@ -1,2 +1,4 @@
 # Repositorio_Gaming_Club
-Repositorio Django
+Gustavo Paredes
+Jeremy Contreras
+https://github.com/Nomireles/Repositorio_Gaming_Club
